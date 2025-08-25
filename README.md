@@ -85,6 +85,7 @@ This **three-team model** ensures proactive defense, rapid response, and continu
 
 ![Ping Test Toronto → Ottawa](images/ping-test-ottawa.png)  
 *Figure 3: Ping from Toronto Transaction Server to Ottawa DevOps Server across VPN*
+
 ---
 
 ## 📑 Full Report
