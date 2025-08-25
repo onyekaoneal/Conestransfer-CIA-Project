@@ -77,12 +77,14 @@ This **three-team model** ensures proactive defense, rapid response, and continu
 ---
 
 ## 📷 Screenshots
-- Network topology diagram (Cisco Packet Tracer)  
-- Successful ping tests across VPN tunnels (Toronto ↔ Vancouver ↔ Ottawa)  
-- CIA triad risk prioritization tables  
+![Network Topology](images/network-topology.png)  
+*Figure 1: Enterprise network topology with IPSec site-to-site VPN connections (Toronto, Vancouver, Ottawa)*
 
-(📂 Place these screenshots in an `/images/` folder)  
+![Ping Test Toronto → Vancouver](images/ping-test-toronto-vancouver.png)  
+*Figure 2: Successful ICMP ping confirming VPN tunnel between Toronto and Vancouver*
 
+![Ping Test Toronto → Ottawa](images/ping-test-ottawa.png)  
+*Figure 3: Ping from Toronto Transaction Server to Ottawa DevOps Server across VPN*
 ---
 
 ## 📑 Full Report
